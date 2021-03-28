@@ -17,7 +17,7 @@ var arr = [
                     out += `<td id="kotak${arr[i][j]}">${arr[i][j]}</td>`
 
                 }
-                tableRow[i].innerHTML = out + `<td><button class="iconify" data-icon="tabler:arrows-left-right" data-inline="false" id="sortLeft" onclick="sortLeft(${i})">sort</button></td>`
+                tableRow[i].innerHTML = out + `<td><button class="iconify" data-icon="tabler:arrows-left-right" data-inline="false" id= "sortLeft" onclick="sortLeft(${i})">sort</button></td>`
             }
 
             tableRow[3].innerHTML = `

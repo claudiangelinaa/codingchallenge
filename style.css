@@ -16,13 +16,11 @@ table, tr, td {
     border-collapse: collapse;
     padding: 20px;
     color: black;
-   
 }
 
 table {
     margin-bottom: 20px;
     background: white;
-    
 }
 button {
     text-transform: uppercase;
@@ -49,7 +47,7 @@ input, #left, #right, #reset {
 }
 
 #kotak4 {
-    background-color: pink;
+    background-color: rgb(198, 130, 238);
 }
 
 #kotak5 {
