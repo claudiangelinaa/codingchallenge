@@ -1,0 +1,88 @@
+body {
+    display: flex;
+    padding: 10px;
+   
+}
+
+.container {
+    margin: 10% auto;
+}
+p{
+    font-size: 30px;
+    color: black;
+}
+table, tr, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 20px;
+    color: black;
+   
+}
+
+table {
+    margin-bottom: 20px;
+    background: white;
+    
+}
+button {
+    text-transform: uppercase;
+}
+td {
+    font-size: 30px;
+    text-align: center;
+    
+}
+
+input, #left, #right, #reset {
+    margin-right: 8px;
+}
+#kotak1 {
+    background-color:magenta;
+}
+
+#kotak2 {
+    background-color: aqua;
+}
+
+#kotak3 {
+    background-color: yellow;
+}
+
+#kotak4 {
+    background-color: pink;
+}
+
+#kotak5 {
+    background-color: red;
+}
+
+#kotak6 {
+    background-color: green;
+}
+
+#kotak7 {
+    background-color: blue;
+}
+
+#kotak8 {
+    background-color: purple;
+}
+
+#kotak9 {
+    background-color: orange;
+}
+
+.iconify{
+    width: 40px;
+    height: 40px;
+    color:black;
+    display: center;
+}
+.iconify:hover{
+    background-color: yellow;
+}
+
+input[type=text] {
+    background-color: #000000;
+    color: white;
+}
